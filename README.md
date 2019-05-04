@@ -24,3 +24,8 @@ Intel发起并参与开发的OpenCV，是一个开源且可以运行在Linux,And
 （4）匹配特征的功能
 
 此部分的实现方法包括“K-最近邻匹配算法”（即KNN）、“Flann算法”等。
+
+# 3ShowTime
+![](./ShowTime/runTimeFigure01.png)
+
+![](./ShowTime/runTimeFigure02.png)
