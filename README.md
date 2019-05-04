@@ -1,8 +1,8 @@
-# 1简介
+# 1、简介
 
 面部识别系统现在在大多数领域中起到举足轻重的作用，尤其是用网络安全，银行，海关，物业管理，智能门禁系统，驾照核验，笔记本人脸登录。人脸识别技术现应用于诸多领域，日后的应用前景十分广阔。
 
-# 2需求功能与可选技术
+# 2、需求功能与可选技术
 
 （1）获取预训练数据集的功能
 coumputer-Vision(计算机视觉)是人工智能的重要分支，它是一门利用计算机模拟生物视觉的学科。人们借助计算机来实现对目标事物的Recoginition（识别）、Classification（分类）、Track(跟踪)等。
@@ -25,7 +25,7 @@ Intel发起并参与开发的OpenCV，是一个开源且可以运行在Linux,And
 
 此部分的实现方法包括“K-最近邻匹配算法”（即KNN）、“Flann算法”等。
 
-# 3ShowTime
+# 3、ShowTime
 ![](./ShowTime/runTimeFigure01.png)
 
 ![](./ShowTime/runTimeFigure02.png)
